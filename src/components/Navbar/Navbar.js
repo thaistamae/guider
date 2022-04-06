@@ -1,3 +1,5 @@
+import styles from "../../assets/style/styles.css";
+
 export function Navbar() {
   return (
     <nav

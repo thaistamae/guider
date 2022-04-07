@@ -14,8 +14,8 @@ export function Home() {
             </div>
             <div className="col-lg-8 align-self-baseline">
               <p className="text-white-75 mb-5">
-                O Guider irá te ajudar a planejar a sua próxima experiência!
-                Explore os locais mais incríveis e monte o seu plano de viagem!
+                O Guider irá te ajudar a planejar a sua próxima experiência <br></br>
+                Explore os locais mais incríveis e monte o seu plano de viagem
               </p>
               <a className="btn btn-primary btn-xl" href="#about">
                 Comece Agora!

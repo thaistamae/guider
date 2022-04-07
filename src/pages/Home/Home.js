@@ -18,7 +18,7 @@ export function Home() {
                 Explore os locais mais incríveis e monte o seu plano de viagem
               </p>
               <a className="btn btn-primary btn-xl" href="#about">
-                Comece Agora!
+                Saiba Mais
               </a>
             </div>
           </div>
@@ -29,15 +29,14 @@ export function Home() {
         <div className="container px-4 px-lg-5">
           <div className="row gx-4 gx-lg-5 justify-content-center">
             <div className="col-lg-8 text-center">
-              <h2 className="text-white mt-0">We've got what you need!</h2>
+              <h2 className="text-white mt-0">Comece a explorar!</h2>
               <hr className="divider divider-light" />
               <p className="text-white-75 mb-4">
-                Start Bootstrap has everything you need to get your new website
-                up and running in no time! Choose one of our open source, free
-                to download, and easy to use themes! No strings attached!
+                Procure o seu próximo destino e encontre todos os locais que você pode visitar.
+                Defina os locais que farão parte da sua viagem, e depois disso é só embarcar!
               </p>
               <a className="btn btn-light btn-xl" href="#services">
-                Get Started!
+                Comece Agora
               </a>
             </div>
           </div>
@@ -46,7 +45,7 @@ export function Home() {
 
       <section className="page-section" id="services">
         <div className="container px-4 px-lg-5">
-          <h2 className="text-center mt-0">At Your Service</h2>
+          <h2 className="text-center mt-0">O que oferecemos</h2>
           <hr className="divider" />
           <div className="row gx-4 gx-lg-5">
             <div className="col-lg-3 col-md-6 text-center">

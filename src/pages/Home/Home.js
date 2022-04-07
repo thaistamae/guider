@@ -45,7 +45,7 @@ export function Home() {
 
       <section className="page-section" id="services">
         <div className="container px-4 px-lg-5">
-          <h2 className="text-center mt-0">O que oferecemos</h2>
+          <h2 className="text-center mt-0">Vantagens</h2>
           <hr className="divider" />
           <div className="row gx-4 gx-lg-5">
             <div className="col-lg-3 col-md-6 text-center">
@@ -53,9 +53,9 @@ export function Home() {
                 <div className="mb-2">
                   <i className="bi-gem fs-1 text-primary"></i>
                 </div>
-                <h3 className="h4 mb-2">Sturdy Themes</h3>
+                <h3 className="h4 mb-2">Destino</h3>
                 <p className="text-muted mb-0">
-                  Our themes are updated regularly to keep them bug free!
+                  Encontre diversos locais para incluir na sua viagem
                 </p>
               </div>
             </div>
@@ -64,9 +64,9 @@ export function Home() {
                 <div className="mb-2">
                   <i className="bi-laptop fs-1 text-primary"></i>
                 </div>
-                <h3 className="h4 mb-2">Up to Date</h3>
+                <h3 className="h4 mb-2">Planejamento</h3>
                 <p className="text-muted mb-0">
-                  All dependencies are kept current to keep things fresh.
+                  Planeje toda a sua rota e locais que irá visitar
                 </p>
               </div>
             </div>
@@ -75,9 +75,9 @@ export function Home() {
                 <div className="mb-2">
                   <i className="bi-globe fs-1 text-primary"></i>
                 </div>
-                <h3 className="h4 mb-2">Ready to Publish</h3>
+                <h3 className="h4 mb-2">Na palma da mão</h3>
                 <p className="text-muted mb-0">
-                  You can use this design as is, or you can make changes!
+                  Consulte facilmente todo o seu roteiro de viagem
                 </p>
               </div>
             </div>
@@ -86,9 +86,9 @@ export function Home() {
                 <div className="mb-2">
                   <i className="bi-heart fs-1 text-primary"></i>
                 </div>
-                <h3 className="h4 mb-2">Made with Love</h3>
+                <h3 className="h4 mb-2">Aproveite</h3>
                 <p className="text-muted mb-0">
-                  Is it really open source if it's not made with love?
+                  Tudo pronto e planejado, é só aproveitar!
                 </p>
               </div>
             </div>

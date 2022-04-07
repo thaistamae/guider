@@ -1,5 +1,3 @@
-import styles from "../../assets/style/styles.css";
-
 export function Navbar() {
   return (
     <nav
@@ -8,7 +6,7 @@ export function Navbar() {
     >
       <div className="container px-4 px-lg-5">
         <a className="navbar-brand" href="#page-top">
-          Start Bootstrap
+          Guider
         </a>
         <button
           className="navbar-toggler navbar-toggler-right"
@@ -25,22 +23,22 @@ export function Navbar() {
           <ul className="navbar-nav ms-auto my-2 my-lg-0">
             <li className="nav-item">
               <a className="nav-link" href="#about">
-                About
+                Sobre
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#services">
-                Services
+                Lugares
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#portfolio">
-                Portfolio
+                Plano
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#contact">
-                Contact
+                Contato
               </a>
             </li>
           </ul>
